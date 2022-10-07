@@ -1,4 +1,4 @@
-package main.GFG.greedy;
+//https://practice.geeksforgeeks.org/problems/faulty-wiring-and-bulbs2939/1
 
 public class FaultyWiringAndBulbs {
     public static void main(String[] args) {
